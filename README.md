@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Pawan</h1>
 <h3 align="center">I am a data analytics student with hands-on experience in machine learning and computer vision. I work on real-time projects using tools like TensorFlow, OpenCV, and Python, aiming to build intelligent, data-driven solutions for practical applications.
 </h3>
- 
-<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="banner">
 
 - 🔭 I’m currently working on **Face Detection Using Open CV**
 
@@ -18,7 +16,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/pawan-parida-60134b276/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pawan-parida-60134b276/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/pawanparida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/pawanparida" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/13zero7two005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/13zero7two005" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/u3uavei1ef/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/u3uavei1ef/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
