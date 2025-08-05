@@ -1,5 +1,9 @@
+<img src="https://64.media.tumblr.com/cca4f06484b447c0687f0325af5b38c9/428a8db1dc8ae92f-87/s1280x1920/7c751558b1d93e15c2d885cff2162ddb95059b8d.gif" alt="A photo of a snow-capped mountain against a blue sky">
+
 <h1 align="center">Hi 👋, I'm Pawan</h1>
 <h3 align="center">I am a data analytics student with hands-on experience in machine learning and computer vision. I work on real-time projects using tools like TensorFlow, OpenCV, and Python, aiming to build intelligent, data-driven solutions for practical applications.</h3>
+
+
 
 - 🔭 I’m currently working on **Face Detection Using Open CV**
 
