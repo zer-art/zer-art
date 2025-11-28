@@ -1,30 +1,93 @@
-<img src="https://64.media.tumblr.com/cca4f06484b447c0687f0325af5b38c9/428a8db1dc8ae92f-87/s1280x1920/7c751558b1d93e15c2d885cff2162ddb95059b8d.gif" alt="banner">
+![banner](https://64.media.tumblr.com/cca4f06484b447c0687f0325af5b38c9/428a8db1dc8ae92f-87/s1280x1920/7c751558b1d93e15c2d885cff2162ddb95059b8d.gif)
 
-<h1 align="center">Hi 👋, I'm Pawan</h1>
-<h3 align="center">I am a data analytics student with hands-on experience in machine learning and computer vision. I work on real-time projects using tools like TensorFlow, OpenCV, and Python, aiming to build intelligent, data-driven solutions for practical applications.
+<h1 align="center">Hi 👋 I'm Pawan Parida</h1>
+<h3 align="center">
+🤖 ML & AI Practitioner | 📊 Data Analytics Specialist | 👁️ Computer Vision Enthusiast
 </h3>
 
-- 🔭 I’m currently working on **Face Detection Using Open CV**
-
-- 🌱 I’m currently learning **Computer vision and genrative Ai**
-
-- 👨‍💻 All of my projects are available at [https://zer-art.github.io/portfolio/](https://zer-art.github.io/portfolio/)
-
-- 💬 Ask me about **python , machine learning , deep learning**
-
-- 📫 How to reach me **13zero7two005@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pawan-parida-60134b276/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pawan-parida-60134b276/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/pawanparida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/pawanparida" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/13zero7two005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/13zero7two005" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/u3uavei1ef/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/u3uavei1ef/" height="30" width="40" /></a>
+<p align="center">
+Data-driven problem solver with expertise in machine learning, NLP, and computer vision. Currently pursuing B.Sc in Data Analytics at DSEU Rajokri Campus. Passionate about building intelligent, production-ready AI solutions.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zer-art&show_icons=true&locale=en&layout=compact" alt="zer-art" /></p>
+## 🎯 Quick Overview
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zer-art&" alt="zer-art" /></p>
+| | |
+|---|---|
+| 🔭 **Current Focus** | AI-powered NLP & Computer Vision projects |
+| 🌱 **Learning** | Advanced Generative AI, LLM Fine-tuning, and Deep Learning |
+| 💼 **Experience** | ML Project Intern at Edunet Foundation (Crop & Fertilizer Recommendation) |
+| 🎓 **Education** | B.Sc Data Analytics, DSEU Rajokri Campus (Jun 2023 - Present) |
+| 📍 **Location** | New Delhi, India |
+| 📧 **Email** | [13zero7two005@gmail.com](mailto:13zero7two005@gmail.com) |
+| 📱 **Phone** | +91 8700579954 |
+
+---
+
+## 🌐 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawan-parida-60134b276/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/pawanparida)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/13zero7two005)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/u3uavei1ef/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/zer-art)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=safari&logoColor=white)](https://zer-art.github.io/portfolio/)
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, JavaScript, HTML, CSS, SQL  
+**ML & AI:** TensorFlow, PyTorch, Scikit-learn, LangChain, Pandas, NumPy, OpenCV  
+**Frameworks & Tools:** FastAPI, Django, Streamlit, LLaM Gemini, n8n, Pinecone  
+**Databases:** MySQL, MongoDB  
+**Other:** Git, Docker, Computer Vision, NLP, Deep Learning
+
+---
+
+## 💡 Featured Projects
+
+| | |
+|---|---|
+| **🤖 [AI Grammar Tutor](https://github.com/zer-art/grammer)** <br> Intelligent grammar correction tool powered by **Google Gemini API** with **LangChain** integration and **FastAPI** backend. Features prompt engineering and **Tailwind CSS** UI. | **🔍 [Pneumonia Detection](https://github.com/zer-art/pneumonia-detection)** <br> Deep learning system using **CNN** for early diagnosis from chest X-rays with **TensorFlow/Keras** and **FastAPI** deployment. |
+| *Python · LangChain · FastAPI · Gemini API · Tailwind CSS* | *CNN · TensorFlow · Kaggle · FastAPI · React* |
+
+---
+
+## 📜 Key Certifications
+
+| Certification | Issuer | Date |
+|---|---|---|
+| **Introduction to Artificial Intelligence** | Infosys Springboard | May 2025 |
+| **Computer Vision 101** | Infosys Springboard | May 2025 |
+| **Mastering Data Analysis with Pandas** | Coursera | Apr 2025 |
+| **Lloyds Banking Group - Data Science Simulation** | Forage | Jul 2025 |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zer-art&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zer-art&theme=dark" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🔧 Languages
+
+🇮🇳 **Hindi** (Native) · 🇬🇧 **English** (Intermediate) · 🇮🇳 **Odiya** (Native)
+
+---
+
+<p align="center">
+  <i>Open to collaborations, freelance projects, and opportunities in AI/ML. Let's build something amazing together!</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zer-art&style=flat-square&color=blue" alt="Profile Views" />
+</p>
