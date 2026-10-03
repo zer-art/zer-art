@@ -1,12 +1,26 @@
 ![banner](https://64.media.tumblr.com/cca4f06484b447c0687f0325af5b38c9/428a8db1dc8ae92f-87/s1280x1920/7c751558b1d93e15c2d885cff2162ddb95059b8d.gif)
 
 <h1 align="center">Hi 👋 I'm Pawan Parida</h1>
-<h3 align="center">
-🤖 ML & AI Practitioner | 📊 Data Analytics Specialist | 👁️ Computer Vision Enthusiast
-</h3>
+<h4 align="center">
+AI Engineer | Data Analytics Specialist | Open-Source Contributor
+</h4>
 
 <p align="center">
-Data-driven problem solver with expertise in machine learning, NLP, and computer vision. Currently pursuing B.Sc in Data Analytics at DSEU Rajokri Campus. Passionate about building intelligent, production-ready AI solutions.
+B.Sc. Data Analytics graduate (2026), pursuing an MCA in Software Engineering at USICT (2026-2028). Core open-source contributor to Google DeepMind (Optax, MuJoCo) and Kornia. I specialize in building high-performance, low-latency AI applications (<100ms) with a focus on Computer Vision, Differentiable Programming, and Large Language Models.
+</p>
+
+---
+
+## 🌐 Profiles
+
+<p align="center">
+  <a href="https://linkedin.com/in/pawan-parida-60134b276" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://zer-art.github.io/portfolio-neo/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=safari&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:13zero7two005@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/zer-art" target="_blank"><img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.kaggle.com/pawanparida" target="_blank"><img src="https://img.shields.io/badge/Kaggle-0d1117?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+  <a href="https://leetcode.com/u/u3uavei1ef/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-0d1117?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+  <a href="https://www.hackerrank.com/profile/13zero7two005" target="_blank"><img src="https://img.shields.io/badge/HackerRank-0d1117?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
 </p>
 
 ---
@@ -15,79 +29,53 @@ Data-driven problem solver with expertise in machine learning, NLP, and computer
 
 | | |
 |---|---|
-| 🔭 **Current Focus** | AI-powered NLP & Computer Vision projects |
-| 🌱 **Learning** | Advanced Generative AI, LLM Fine-tuning, and Deep Learning |
-| 💼 **Experience** | ML Project Intern at Edunet Foundation (Crop & Fertilizer Recommendation) |
-| 🎓 **Education** | B.Sc Data Analytics, DSEU Rajokri Campus (Jun 2023 - Present) |
-| 📍 **Location** | New Delhi, India |
-| 📧 **Email** | [13zero7two005@gmail.com](mailto:13zero7two005@gmail.com) |
-| 📱 **Phone** | +91 8700579954 |
-
----
-
-## 🌐 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawan-parida-60134b276/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/pawanparida)
-[![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/13zero7two005)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/u3uavei1ef/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/zer-art)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=safari&logoColor=white)](https://zer-art.github.io/portfolio/)
+| 🔭 **Focus** | Scalable RAG architectures & production-ready Machine Learning solutions |
+| 🌍 **Open Source** | Core contributor to **Google DeepMind** and **Kornia** |
+| 💼 **Experience** | AI/ML Intern @ UptoSkills \| Project Intern @ Edunet Foundation |
+| 🎓 **Education** | MCA Software Engineering, USICT \| B.Sc Data Analytics, DSEU |
+| 🏆 **Achievements** | 1st Place — DSEU RIT Hackathon (2025) \| Selected for Delhi Startup Yuva Festival |
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, JavaScript, HTML, CSS, SQL  
-**ML & AI:** TensorFlow, PyTorch, Scikit-learn, LangChain, Pandas, NumPy, OpenCV  
-**Frameworks & Tools:** FastAPI, Django, Streamlit, LLaM Gemini, n8n, Pinecone  
-**Databases:** MySQL, MongoDB  
-**Other:** Git, Docker, Computer Vision, NLP, Deep Learning
+**Languages**  
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=sqlite&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=white) 
+
+**AI / ML / Data Science**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=flat-square&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=white)
+
+**Web, Cloud & DevOps**  
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0d1117?style=flat-square&logo=microsoftazure&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=white)
 
 ---
 
 ## 💡 Featured Projects
 
-| | |
+| 🤖 [AIVOX (AI Interview Coach)](https://github.com/zer-art/Academics/tree/main/Major-project) | 🔍 [Pneumonia Detection](https://github.com/zer-art/Computer-Vision-Projects/tree/pneumonia-detection-import/pneumonia-detection) |
 |---|---|
-| **🤖 [AI Grammar Tutor](https://github.com/zer-art/grammer)** <br> Intelligent grammar correction tool powered by **Google Gemini API** with **LangChain** integration and **FastAPI** backend. Features prompt engineering and **Tailwind CSS** UI. | **🔍 [Pneumonia Detection](https://github.com/zer-art/pneumonia-detection)** <br> Deep learning system using **CNN** for early diagnosis from chest X-rays with **TensorFlow/Keras** and **FastAPI** deployment. |
-| *Python · LangChain · FastAPI · Gemini API · Tailwind CSS* | *CNN · TensorFlow · Kaggle · FastAPI · React* |
+| Real-time interview coaching platform integrating AI for comprehensive preparation. Built a **Groq/Whisper** pipeline with **<100ms** latency, integrated **MediaPipe** at 32 FPS for visual cues, and optimized the backend to reduce report generation times by 95%. | CNN-based medical diagnostic system for pneumonia detection from chest X-rays. Trained and optimized a deep learning model achieving **91.3%** validation accuracy, deployed via **FastAPI** for low-latency, real-time inference. |
+| `FastAPI` `LangChain` `Gemini API` `OpenCV` `Groq` | `TensorFlow` `CNN` `FastAPI` `NumPy` `Matplotlib` |
 
 ---
 
-## 📜 Key Certifications
-
-| Certification | Issuer | Date |
-|---|---|---|
-| **Introduction to Artificial Intelligence** | Infosys Springboard | May 2025 |
-| **Computer Vision 101** | Infosys Springboard | May 2025 |
-| **Mastering Data Analysis with Pandas** | Coursera | Apr 2025 |
-| **Lloyds Banking Group - Data Science Simulation** | Forage | Jul 2025 |
-
----
-
-## 📊 GitHub Stats
+## 📊 Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zer-art&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zer-art&show_icons=true&hide_border=true&bg_color=00000000&title_color=c9d1d9&text_color=8b949e&icon_color=c9d1d9" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zer-art&show_icons=true&locale=en&layout=compact&hide_border=true&bg_color=00000000&title_color=c9d1d9&text_color=8b949e" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zer-art&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zer-art&hide_border=true&background=00000000&ring=c9d1d9&fire=c9d1d9&currStreakNum=8b949e&sideNums=8b949e&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🔧 Languages
-
-🇮🇳 **Hindi** (Native) · 🇬🇧 **English** (Intermediate) · 🇮🇳 **Odiya** (Native)
-
----
-
 <p align="center">
-  <i>Open to collaborations, freelance projects, and opportunities in AI/ML. Let's build something amazing together!</i>
+  <i>Open to collaborations, open-source projects, and opportunities in AI Engineering or Data Analytics.</i>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zer-art&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=zer-art&style=flat-square&color=0d1117&label=Profile%20Views" alt="Profile Views" />
 </p>
